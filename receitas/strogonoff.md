@@ -1,6 +1,6 @@
-﻿\# Strogonoff de Frango :chicken:
+﻿# Strogonoff de Frango :chicken:
 
-\### Ingredientes
+### Ingredientes
 
 - 1 quilo de peito de frango sem pele
 
@@ -20,14 +20,14 @@
 
 - Batata palha e arroz branco para acompanhar
 
-\### Modo de Preparo
+### Modo de Preparo
 
 
 
-\*\*1.\*\* Em uma panela a fogo mÃ©dio, acrescente o Ã³leo e o caldo de galinha e, dissolva o caldo. Logo em seguida coloque o frango picado em cubos na panela e deixe cozinhar, sempre dando uma olhadinha para nÃ£o queimar.
+**1.** Em uma panela a fogo mÃ©dio, acrescente o Ã³leo e o caldo de galinha e, dissolva o caldo. Logo em seguida coloque o frango picado em cubos na panela e deixe cozinhar, sempre dando uma olhadinha para nÃ£o queimar.
 
-\*\*2.\*\* Assim que o frango estiver bem cozido, acrescente o molho de tomate, o ketchup, a mostarda e champignon a gosto.
+**2.** Assim que o frango estiver bem cozido, acrescente o molho de tomate, o ketchup, a mostarda e champignon a gosto.
 
-\*\*3.\*\* Abaixe o fogo e coloque o creme de leite e mexa bem atÃ© se tornar um creme homogÃªneo.
+**3.** Abaixe o fogo e coloque o creme de leite e mexa bem atÃ© se tornar um creme homogÃªneo.
 
-\*\*4.\*\* EstÃ¡ pronto para servir.
+**4.** EstÃ¡ pronto para servir.
